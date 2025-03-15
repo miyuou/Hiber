@@ -1,0 +1,1 @@
+HIBER is a web application developed with Django and MySQL for hotel reservation management. It allows clients to make online bookings, enables administrators to manage rooms, and tracks availability. The intuitive interface simplifies client and reservation management, enhancing the overall user experience.
